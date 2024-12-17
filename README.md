@@ -2,10 +2,10 @@
 ## 👋 About Me
 Senior Software Engineer
 
-Detail-oriented, organized, and an effective problem solver
+Detail-oriented, organized, and effective problem solver
 
 ## 👯 I’m looking to collaborate on
-I'm open to collaborating on interesting projects related to Spring bootMERN, MEVN, and DevOps pratices. If you have something exciting in mind, feel free to reach out!
+I'm open to collaborating on interesting projects related to Spring boot projects, MERN, MEVN, and DevOps pratices. If you have something exciting in mind, feel free to reach out!
 
 ## 🌱 I'm focusing on
 Java/Spring Boot, Python/Django, PHP/Laravel, JavaScript/TypeScript, React/Next.js, Vue.js/Nuxt.js, Node.js, Express, MySQL, PostgreSQL, MongoDB, Automation Testing, Build & Deploy with CI/CD, Containerization with Docker and AWS/Serverless
