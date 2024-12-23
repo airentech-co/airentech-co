@@ -1,19 +1,30 @@
 # Welcome to my profile!
-## 👋 About Me
-Senior Software Engineer
+### 👋 About Me
+#### Senior Software Engineer | Full Stack Engineer | Backend Engineer
 
-Detail-oriented, organized, and effective problem solver
+Software Engineer with 10+ years of experience and a passion for both personal growth and software development. Adept at building scalable, cloud-native applications with a focus on microservices architecture. 
+Detail-oriented, organized, and an effective problem solver, with a proven ability to lead teams and deliver high-quality solutions in fast-paced, agile environments.
 
-## 👯 I’m looking to collaborate on
-I'm open to collaborating on interesting projects related to Spring boot projects, MERN, MEVN, and DevOps pratices. If you have something exciting in mind, feel free to reach out!
+### 🚀 Skills
 
-## 🌱 I'm focusing on
-Java/Spring Boot, Python/Django, PHP/Laravel, JavaScript/TypeScript, React/Next.js, Vue.js/Nuxt.js, Node.js, Express, MySQL, PostgreSQL, MongoDB, Automation Testing, Build & Deploy with CI/CD, Containerization with Docker and AWS/Serverless
+#### **Languages**
+- `JavaScript (ES6+)`, `TypeScript`  
+- `C/C++`, `Java 8/11/17/21`, `C#`, `Python`, `PHP`, `Clojure`  
+- SQL & NoSQL: `MySQL`, `PostgreSQL`, `SQLite`, `Oracle`, `MongoDB`  
 
-## 📫 How to reach me
-- Email: dannyxdev@gmail.com
-- Phone: (786) 220 4753
+#### **Frameworks & Libraries**
+- Frontend: `React`, `Angular`, `Vue.js`  
+- Backend: `Node.js`, `Express`, `Spring Boot`, `ASP.NET Core`, `ASP.NET`, `Laravel`  
 
-## ⚡ Fun fact
-- It's funny for me to solve hard and complex problems leveraging data structures and algorithms. :)
-- I love working with my teammates to collaborate.
+#### **Tools & Platforms**
+- `Docker`, `Kubernetes`  
+- `Kafka`, `RabbitMQ`  
+- `Git`, `GitHub`, `GitLab`  
+- AWS (`Lambda`, `S3`, `EC2`, `ECS`, `ECR`, `EKS`, `RDS`, `DynamoDB`, `Aurora`, `SQS`, `SNS`), `Azure`, `GCP`, `Heroku`, `Vercel`  
+- CI/CD: Jenkins, GitHub Actions  
+
+#### **Other Skills**
+- `Microservices Architecture`, `Problem-Solving`, `System Design`, `SDLC`, `Pair-Programming`  
+- Unit Testing & Integration Testing (`Jest`, `Mocha`, `JUnit`, `Mockito`)  
+- `RESTful APIs`, `GraphQL`, `gRPC`  
+- `Agile Methodology`, `Scrum`, `Jira`  
