@@ -21,7 +21,7 @@ Detail-oriented, organized, and an effective problem solver, with a proven abili
 - `Kafka`, `RabbitMQ`  
 - `Git`, `GitHub`, `GitLab`  
 - AWS (`Lambda`, `S3`, `EC2`, `ECS`, `ECR`, `EKS`, `RDS`, `DynamoDB`, `Aurora`, `SQS`, `SNS`), `Azure`, `GCP`, `Heroku`, `Vercel`  
-- CI/CD: Jenkins, GitHub Actions  
+- CI/CD: `Jenkins`, `GitHub Actions`  
 
 #### **Other Skills**
 - `Microservices Architecture`, `Problem-Solving`, `System Design`, `SDLC`, `Pair-Programming`  
