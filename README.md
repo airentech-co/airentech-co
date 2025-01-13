@@ -13,8 +13,8 @@ Detail-oriented, organized, and an effective problem solver, with a proven abili
 - SQL & NoSQL: `MySQL`, `PostgreSQL`, `SQLite`, `Oracle`, `MongoDB`  
 
 #### **Frameworks & Libraries**
-- Frontend: `React`, `Angular`, `Vue.js`  
-- Backend: `Node.js`, `Express`, `Spring Boot`, `ASP.NET Core`, `ASP.NET`, `Laravel`  
+- Frontend: `React`, `Angular`, `Vue.js`, `Next.js`, `Redux`, `Mobx`, `React Query`, `Story Book`, `Vite`, `Webpack`, `Material UI`, `Tailwind CSS`, `Boostrap`, `WebSockets`  
+- Backend: `Node.js`, `Express.js`, `Spring Boot`, `ASP.NET Core`, `ASP.NET`, `Laravel`, `Codeigniter`, `Django`, `Flask`   
 
 #### **Tools & Platforms**
 - `Docker`, `Kubernetes`  
@@ -24,7 +24,7 @@ Detail-oriented, organized, and an effective problem solver, with a proven abili
 - CI/CD: `Jenkins`, `GitHub Actions`  
 
 #### **Other Skills**
-- `Microservices Architecture`, `Problem-Solving`, `System Design`, `SDLC`, `Pair-Programming`  
-- Unit Testing & Integration Testing (`Jest`, `Mocha`, `JUnit`, `Mockito`)  
+- `Microservices Architecture`, `Problem-Solving`, `System Design`, `SDLC`, `Pair-Programming`, `OOP`, `TDD`, `BDD`  
+- Unit Testing & Integration Testing: `Jest`, `Mocha`, `JUnit`, `Mockito`, `Cypress`, `Playwright`  
 - `RESTful APIs`, `GraphQL`, `gRPC`  
 - `Agile Methodology`, `Scrum`, `Jira`  
