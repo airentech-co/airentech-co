@@ -1,6 +1,6 @@
 # Welcome to my profile!
 ### 👋 About Me
-#### Senior Software Engineer | Full Stack Engineer | Backend Engineer
+#### Lead Software Engineer | Full Stack Engineer | Backend Engineer
 
 Software Engineer with 10+ years of experience and a passion for both personal growth and software development. Adept at building scalable, cloud-native applications with a focus on microservices architecture. 
 Detail-oriented, organized, and an effective problem solver, with a proven ability to lead teams and deliver high-quality solutions in fast-paced, agile environments.
@@ -27,4 +27,7 @@ Detail-oriented, organized, and an effective problem solver, with a proven abili
 - `Microservices Architecture`, `Problem-Solving`, `System Design`, `SDLC`, `Pair-Programming`, `OOP`, `TDD`, `BDD`  
 - Unit Testing & Integration Testing: `Jest`, `Mocha`, `JUnit`, `Mockito`, `Cypress`, `Playwright`  
 - `RESTful APIs`, `GraphQL`, `gRPC`  
-- `Agile Methodology`, `Scrum`, `Jira`  
+- `Agile Methodology`, `Scrum`, `Jira`
+- `Team Leadership`, `Strategic Planning`, `Cross-functional Team Collaboration`
+
+
